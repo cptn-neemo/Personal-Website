@@ -1,0 +1,6 @@
+#534C60 Dark purple
+#545F78 nice blue purple
+#4F738D somewhat dark blue
+#49889B blue
+#4D9CA0 ocean blue
+#63AF9E light blue
