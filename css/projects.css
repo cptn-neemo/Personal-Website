@@ -14,6 +14,10 @@ body {
 .icon-container {
     display: flex;
     justify-content: center;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
 }
 
 .icon {
@@ -21,10 +25,12 @@ body {
 }
 
 .center {
-    position: absolute;
-    bottom: 0;
-    left: 44%;
     margin-bottom: 5px;
+}
+
+a {
+    margin-right: 0px;
+    margin-bottom: 7px;
 }
 
 .icon:hover {
@@ -33,7 +39,7 @@ body {
 }
 
 .card {
-    height: 300px;
+    min-height: 300px;
     max-width: 350px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     border-radius: 5px;
@@ -76,6 +82,14 @@ p {
         margin-right: 0;
         height: 500px;
     }    
+
+    h1 {
+         font-family: 'Open Sans', sans-serif;   
+    }
+
+    #C1ES-cont {
+        height: 600px;
+    }
 
     .center {
         font-size: 42px;
