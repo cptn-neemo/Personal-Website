@@ -73,11 +73,11 @@ canvas {
     } 
 
     #max-text {
-        font-size: 3em;
+        font-size: 2em;
     }
     .center {
         left: 0;
-        top: 20%;
+        top: 10%;
         width: 100%;
         font-size: 42px;
         text-align: center;
